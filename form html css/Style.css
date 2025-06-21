@@ -1,0 +1,48 @@
+h1{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgba(210, 13, 177, 0.401);
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: dotted;
+}
+h3{
+    color: rgb(168, 15, 244);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#div1{
+    background-color: rgba(0, 162, 255, 0.400);
+    border-radius: 10px;
+    width:700px;
+    align-content: center;
+    margin-bottom: 10px;
+
+    
+}
+#div2{
+    background-color: rgba(0, 162, 255, 0.300);
+    border-radius: 10px;
+    width:700px;
+    align-content: center;
+    margin-bottom: 10px;
+
+}
+#div3{
+    background-color: rgba(0, 162, 255, 0.200);
+    border-radius: 10px;
+    width:700px;
+    align-content: center;
+    margin-bottom: 10px;
+
+}
+#div4{
+    background-color: rgba(0, 162, 255, 0.100);
+    border-radius: 10px;
+    width: 700px;
+    align-content: center;
+    margin-bottom: 10px;
+
+}
